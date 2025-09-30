@@ -19,5 +19,5 @@ A beginner-friendly Flutter app to calculate BMI (Body Mass Index).
 
 ## 🎥 Output Video
 
-👉 [▶️ Watch BMI Calculator Video](https://github.com/khushijain2707/FLUTTER_BMI_CALCULATOR/raw/main/assets/videos/BMI_Output_Video.mp4)
+ [▶️ Watch BMI Calculator Video](https://github.com/khushijain2707/FLUTTER_BMI_CALCULATOR/raw/main/assets/videos/BMI_Output_Video.mp4)
 
