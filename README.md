@@ -20,6 +20,6 @@ A beginner-friendly Flutter app to calculate BMI (Body Mass Index).
 ## 🎥 Output Video
 
 <video width="400" controls>
-  <source src="assets/videos/BMI_Output_Video.mp4" type="video/mp4">
+  <source src="https://github.com/khushijain2707/FLUTTER_BMI_CALCULATOR/blob/main/assets/videos/BMI_Output_Video.mp4" type="video/mp4">
   Your browser does not support HTML video.
 </video>
